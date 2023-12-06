@@ -9,8 +9,7 @@
 <h3 align="center">iWish</h3>
 
   <p align="center">
-    A full-stack web app to manage wishlists. Built using
-                          MERN stack.
+    This is the readme repo for iWish. Please check the specific repos for frontend and backend source code.
     <br />
     <br />
     <a href="https://github.com/sfbarts/iwish-frontend">Frontend Repo</a>
